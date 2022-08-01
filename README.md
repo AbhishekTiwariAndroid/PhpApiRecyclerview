@@ -2,7 +2,7 @@
 
 ***You can Install it from below but the api's on localhost 👇***
 
-[![PhpApiRecyclerview App](https://img.shields.io/badge/PhpApiRecyclerview💰-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/AbhishekTiwariAndroid/CryptoExchange/blob/master/app-debug.apk)
+[![PhpApiRecyclerview App](https://img.shields.io/badge/PhpApiRecyclerview💰-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/AbhishekTiwariAndroid/PhpApiRecyclerview/blob/master/app-debug.apk)
 
 
 
