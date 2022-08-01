@@ -43,7 +43,11 @@
 ![Screenshot (266)](https://user-images.githubusercontent.com/42689087/182083307-78d91649-4abf-4e63-90dd-225c6b89d6db.png)
 
 
+## Php files
 
+for inserting data into database click here for code file ->   https://github.com/AbhishekTiwariAndroid/PhpApiRecyclerview/blob/master/userpost.php
+
+for fetching all data from database  click here for code file - > https://github.com/AbhishekTiwariAndroid/PhpApiRecyclerview/blob/master/getusers.php
 
 
 
